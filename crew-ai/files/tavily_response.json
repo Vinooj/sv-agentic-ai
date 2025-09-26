@@ -1,0 +1,122 @@
+{
+  "query": "Healtcare AI news",
+  "follow_up_questions": null,
+  "answer": null,
+  "images": [],
+  "results": [
+    {
+      "url": "https://hai.stanford.edu/topics/healthcare",
+      "title": "Healthcare | Stanford HAI",
+      "content": "- Policy\n  - Policy Publications\n  - Policymaker Education\n  - Student Opportunities\n- AI IndexAI Index\n\n  - AI Index\n  - AI Index Report\n  - Global Vibrancy Tool\n  - People\n\n- News\n- Events\n- Industry\n- Centers & Labs\n\n# Healthcare\n\nAI will revolutionize healthcare, from diagnostics to operations, and create new concerns for patient privacy and security.\n\n##### An AI Social Coach Is Teaching Empathy to People with Autism\n\nSarah Wells\n\nAug 13, 2025\n\nNews [...] A specialized chatbot named Noora is helping individuals with autism spectrum disorder practice their social skills on demand.\n\nNews\n\n#### An AI Social Coach Is Teaching Empathy to People with Autism\n\nSarah Wells\n\nHealthcareNatural Language ProcessingGenerative AIAug 13\n\nA specialized chatbot named Noora is helping individuals with autism spectrum disorder practice their social skills on demand.\n\n##### Robotics and AI\n\nStanford HAI\n\nJun 01, 2022\n\nIndustry Brief [...] This industry brief focuses on AI research in healthcare and life sciences, with particular attention to its implications in a post COVID-19 world. Stanford HAI synthesize the latest from Stanford faculty across drug discovery, telehealth, ambient intelligence, operational excellence, medical imaging, augmented intelligence, and data and privacy. Read to learn more about how the adoption of AI may transform these applications.\n\n#### Healthcare, Life Sciences, and AI\n\nStanford HAI\n\nMar 01, 2021",
+      "score": 0.7940821,
+      "raw_content": null
+    },
+    {
+      "url": "https://aihealth.duke.edu/news_and_events/",
+      "title": "News \u2013 Duke AI Health",
+      "content": "Duke AI Health Director Michael Pencina, PhD, recently took part in webinar hosted by Newsweek. The webinar, titled \u201c\u201dHealth Care\u2019s AI Playbook: Building Safe, Smart and Scalable Systems,\u201d covered topics in AI governance and implementation for an audience of healthcare system leaders and included other participants representing industry and the nonprofit Coalition for Health AI (CHAI), of which Duke is a founding member. A summary of the event by Newsweek\u2019s Alexis Kayser, together with a [...] New to AI in healthcare or need a refresher? This accessible session presented by Matt Engelhard, Director of the AI Health Data Science Fellowship Program, and Shelley Rusincovitch, Duke AI Health Managing Director, offers a foundational overview of machine learning and AI tailored for healthcare settings. They explain how AI can be used to analyze medical images, text, and structured data, while also addressing potential risks and ethical considerations. Whether you\u2019re just getting started or [...] REGISTER\n\n## AI Health Director Michael Pencina Takes Part in Newsweek Panel on AI in Healthcare\n\nJune 25, 2025",
+      "score": 0.71137124,
+      "raw_content": null
+    },
+    {
+      "url": "https://hai.stanford.edu/news/exploring-the-dangers-of-ai-in-mental-health-care",
+      "title": "Exploring the Dangers of AI in Mental Health Care | Stanford HAI",
+      "content": "Exploring the Dangers of AI in Mental Health Care | Stanford HAI\n\nSkip to content\n\nnews\n\n# Exploring the Dangers of AI in Mental Health Care\n\nDate\n\nJune 11, 2025\n\nTopics\n\nHealthcareGenerative AI\n\nistock\n\nA new Stanford study reveals that AI therapy chatbots may not only lack effectiveness compared to human therapists but could also contribute to harmful stigma and dangerous responses. [...] A specialized chatbot named Noora is helping individuals with autism spectrum disorder practice their social skills on demand.\n\nNews\n\n#### An AI Social Coach Is Teaching Empathy to People with Autism\n\nSarah Wells\n\nHealthcareNatural Language ProcessingGenerative AIAug 13\n\nA specialized chatbot named Noora is helping individuals with autism spectrum disorder practice their social skills on demand.\n\n##### When AI Imagines a Tree: How Your Chatbot\u2019s Worldview Shapes Your Thinking [...] Across different chatbots, the AI showed increased stigma toward conditions such as alcohol dependence and schizophrenia compared to conditions like depression. This kind of stigmatizing can be harmful to patients and may lead them to discontinue important mental health care, said Jared Moore, a PhD candidate in computer science at Stanford University and the lead author on the paper. The team also found that this stigma was consistent across different AI models.",
+      "score": 0.69746524,
+      "raw_content": null
+    },
+    {
+      "url": "https://ai.nejm.org/doi/full/10.1056/AI-S2400951",
+      "title": "Revolutionizing Health Care with AI: A New Era of Efficiency ...",
+      "content": "by R Ronanki \u00b7 2024 \u00b7 Cited by 5 \u2014 In this article, Rajeev Ronanki, CEO of Lyric, explores AI's profound impact on clinical decision-making, claims management, and provider-payer relationships.",
+      "score": 0.66045773,
+      "raw_content": null
+    },
+    {
+      "url": "https://ai.nejm.org/browse/ai-article-type/perspective",
+      "title": "Perspective - NEJM AI - The New England Journal of Medicine",
+      "content": "#### AI Agents, Automaticity, and Value Alignment in Health Care\n\n  R.A. TaylorNEJM AI 2025;2(8)\n\n  This perspective frames AI agents as a transformative advancement in health care AI, offering unprecedented capabilities but raising complex ethical challenges. It calls for an ethical framework based on inclusivity, transparency, and adaptive governance to ensure value alignment and promote equity, quality, and trust in care.\n + Perspective\n  + VOL. 2 NO. 8\n  + Jul 24, 2025 [...] A.K. Malhotra and OthersNEJM AI 2025;2(9)\n\n  AI is advancing the practice of medicine and health care delivery worldwide. As global citizens, we must pause to consider the impact of such activity on planetary health given AI\u2019s increasing energy requirements. There is an urgent need to prioritize health system design changes that promote patient-centered care while also...\n + Perspective\n  + VOL. 2 NO. 9\n  + Aug 28, 2025\n\n  #### Redefining Bias Audits for Generative AI in Health Care [...] This paper discusses the challenges of postdeployment assessment of predictive artificial intelligence (AI) models in health care, particularly how confounding medical interventions can distort performance evaluation. It explores current limitations in monitoring strategies and suggests advanced causal modeling as a potential solution to ensure that AI models remain effective in...\n + Perspective\n  + VOL. 2 NO. 5\n  + Apr 24, 2025",
+      "score": 0.6551821,
+      "raw_content": null
+    },
+    {
+      "url": "https://aihealth.duke.edu/roundup/",
+      "title": "Roundup \u2013 Duke AI Health",
+      "content": "## AI Health Friday Roundup\n\nIn this week\u2019s Duke AI Health Friday Roundup: WHO debuts healthcare chatbot; eyeing US preparations to counter avian flu; video games for the phylogenetic win; the importance of evidence-based approaches to smoking cessation; AI-assisted email associated with some benefits for docs, but saving time is not one of them; AI sets sight on modern battlefields (and haunts some old ones); surprising results from studies of medical debt relief; much more:\n\nREAD MORE [...] ## AI Health Friday Roundup\n\nSeptember 22, 2023\n\nIn this week\u2019s Duke AI Health Friday Roundup: harnessing physical processes to power AI; xenograft study in mice sheds light on neuronal destruction in Alzheimer\u2019s; speaking plainly in science; multimodal AI comes to the clinic; aligning AI fairness with medical practice; small-town healthcare imperiled by lack of doctors; GPT enhances consultant productivity and levels skills \u2013 with caveats; ableism in computer programming; much more: [...] READ MORE\n\n## AI Health Friday Roundup\n\nJune 9, 2023\n\nIn today\u2019s Duke AI Health Friday Roundup: probing the limits of transformer models; the merits of visual explanations in healthcare; potential for racial and ethnic bias in algorithmic healthcare tools; gratitude ceremonies for donated bodies; AI targets antibiotic candidate for resistant pathogen; postdoc pipeline for life sciences in danger of drying up; climate change may narrow range of livable area on Earth for millions; much more:",
+      "score": 0.63397753,
+      "raw_content": null
+    },
+    {
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIpc2401250",
+      "title": "Cross-National Trends in the Regulation of Health ... - NEJM AI",
+      "content": "the development and use of health care AI. Cross-national harmonization of regulatory regimes is nascent and likely to be challenging, but approaches to regulating PGAI seem to be amenable to international alignment. Research on standardized metrics and evaluation frameworks for health care AI presents a promising avenue for international collaboration. (Funded by the Commonwealth Fund.) [...] machine learning\u2013based predictive analytics \u2014 are more established and consistent than those for generative AI \u2014 which encompasses foundation models and their derivative applications. This is because PGAI has been available for decades and has been managed under established regulatory pathways that have treated health AI as \u201csoftware as a medical device.\u201d Given the dependence of AI health care applications on patient data, existing and new regulations on access to such data will play a role in [...] Skip to main content\n\n##### Create an E-mail Alert for This Article\n\n# Cross-National Trends in the Regulation of Health-Related Artificial Intelligence\n\nAuthors: Saira Ghafur, M.B., Ch.B., M.R.C.P., M.Sc. , Ryan Callahan, B.S.F.S. , and David Blumenthal, M.D., M.P.P. Author Info & Affiliations\n\nPublished March 25, 2025\n\nNEJM AI 2025;2(4)\n\nDOI: 10.1056/AIpc2401250\n\nVOL. 2 NO. 4\n\nCopyright \u00a9 2025\n\n##### Permissions\n\nFor permission requests, please contact NEJM Reprints at reprints@nejm.org",
+      "score": 0.60274047,
+      "raw_content": null
+    },
+    {
+      "url": "https://hai.stanford.edu/news/stanford-develops-real-world-benchmarks-for-healthcare-ai-agents",
+      "title": "Stanford Develops Real-World Benchmarks for Healthcare AI ...",
+      "content": "Black says benchmarks like these are necessary as more hospitals and healthcare systems are incorporating AI into tasks including note-writing and chart summarization.\n\nAccurate and trustworthy AI could also help alleviate a looming crisis, he adds. Pressed by patient needs, compliance demands, and staff burnout, healthcare providers are seeing a worsening global staffing shortage, estimated to exceed 10 million by 2030. [...] _Paper authors: Yixing Jiang, Kameron C. Black, Gloria Geng, Danny Park, James Zou, Andrew Y. Ng, and Jonathan H. Chen_\n\n_Read the piece in the_New England Journal of Medicine AI_._\n\nShare\n\n\n\n###### Scott Hadly\n\n### Related News\n\n##### The Trump FTC\u2019s War On Porn Just Ensured That Accused CSAM Offenders Will Walk Free\n\nTech Dirt\n\nSep 15, 2025\n\nMedia Mention [...] Instead of replacing doctors and nurses, Black hopes that AI can be a powerful tool for clinicians, lessening the burden of some of their workload and bringing them back to the patient bedside.\n\n\u201cI\u2019m passionate about finding solutions to clinician burnout,\u201d Black said. \u201cI hope that by working on agentic AI applications in healthcare that augment our workforce, we can help offload burden from clinicians and divert this impending crisis.\u201d",
+      "score": 0.5925965,
+      "raw_content": null
+    },
+    {
+      "url": "https://ai.nejm.org/",
+      "title": "NEJM AI - The New England Journal of Medicine",
+      "content": "AI is advancing the practice of medicine and health care delivery worldwide. As global citizens, we must pause to consider the impact of such activity on planetary health given AI\u2019s increasing energy requirements. There is an urgent need to prioritize health system design changes that promote patient-centered care while also enhancing sustainability. In this article, we consider the factors and frameworks that may enable responsible use of AI in medicine from an environmental perspective. [...] #### MedAgentBench: A Virtual EHR Environment to Benchmark Medical LLM Agents\n\n  Y. Jiang and Others\n\n  MedAgentBench, a comprehensive benchmark designed to evaluate the agentic capabilities of large language models in realistic electronic medical record environments, provides a critical foundation for advancing and integrating LLM agents into clinical workflows.\n\n + Perspective\n  + Aug 14, 2025\n\n  #### Redefining Bias Audits for Generative AI in Health Care\n\n  I.Y. Chen and E. Alsentzer [...] This perspective explores the shortcomings of traditional auditing methods for large language models in health care and offers targeted recommendations to enhance bias evaluation in practical, real-world settings.\n\n + Perspective\n  + Aug 14, 2025\n\n  #### Energy Considerations for Scaling Artificial Intelligence Adoption in Medicine: First Do No Harm\n\n  A.K. Malhotra and Others",
+      "score": 0.5746579,
+      "raw_content": null
+    },
+    {
+      "url": "https://aihealth.duke.edu/ai-health-roundup-august-29-2025/",
+      "title": "AI Health Roundup \u2013 August 29, 2025",
+      "content": "In this week\u2019s Duke AI Health Friday Roundup: explainable AI in healthcare; light pollution and air pollution and cardiorenal health; effects of laws against surprise medical billing; model for flu vax development; can generative AI cope with retracted articles?; mapping microscopic tuberculosis \u201ccities\u201d; Mediterranean diet, genetics, and Alzheimer risk; new approach for brain-computer interfaces; integrating AI into peer review; much more:\n\n#### AI, STATISTICS & DATA SCIENCE [...] Duke AI Health\nDuke AI Health\n\n# AI Health Roundup \u2013 August 29, 2025\n\n# AI Health\n\n# Friday Roundup\n\nThe AI Health Friday Roundup highlights the week\u2019s news and publications related to artificial intelligence, data science, public health, and clinical research.\n\nAugust 29, 2025 [...] The image is of the exterior of an impression of a building. People and figures can be seen inside and outside of the building. There are clouds of network connections all around the building and inside. It relates to the digital networked workplace. Jamillah Knowles & Digit /  / \n\nSTAY INFORMED: Subscribe to the AI Health Mailing List and Monthly Newsletter\n\nDuke\n\nSites@Duke Express is powered by WordPress. Read the Sites@Duke Express\npolicies and\nFAQs, or request help.",
+      "score": 0.57236487,
+      "raw_content": null
+    },
+    {
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIdbp2500144",
+      "title": "MedAgentBench: A Virtual EHR Environment to Benchmark ...",
+      "content": "Go to Citation\n\nCrossref\n\nPubMed\n\nWeb of Science\n\nGoogle Scholar\n\n6.\n\nSahni NR, Carrus B. Artificial intelligence in US health care delivery. _N Engl J Med_ 2023;389:348-358.\n\nGo to Citation\n\nCrossref\n\nPubMed\n\nWeb of Science\n\nGoogle Scholar\n\n7.\n\nKachman MM, Brennan I, Oskvarek JJ, Waseem T, Pines JM. How artificial intelligence could transform emergency care. _Am J Emerg Med_ 2024;81:40-46.\n\nGo to Citation\n\nCrossref\n\nPubMed\n\nWeb of Science\n\nGoogle Scholar\n\n8. [...] Quinn TP, Senadeera M, Jacobs S, Coghlan S, Le V. Trust and medical AI: the challenges we face and the expertise needed to overcome them. _J Am Med Inform Assoc_ 2021;28:890-894.\n\nGo to Citation\n\nCrossref\n\nPubMed\n\nWeb of Science\n\nGoogle Scholar\n\n15.\n\nEllahham S, Ellahham N, Simsekler MCE. Application of artificial intelligence in the health care safety context: opportunities and challenges. _Am J Med Qual_ 2020;35:341-348.\n\nGo to Citation\n\nCrossref\n\nPubMed\n\nWeb of Science\n\nGoogle Scholar\n\n16. [...] Mennella C, Maniscalco U, De Pietro G, Esposito M. Ethical and regulatory challenges of AI technologies in healthcare: a narrative review. _Heliyon_ 2024;10:e26297.\n\nGo to Citation\n\nCrossref\n\nPubMed\n\nWeb of Science\n\nGoogle Scholar\n\n17.\n\nPal A, Umapathi LK, Sankarasubbu M. Medmcqa: a large-scale multi-subject multi-choice dataset for medical domain question answering. In: _Proceedings of the Conference on Health, Inference, and Learning_. PMLR, 2022:248-260 (\n\nGo to Citation\n\nGoogle Scholar",
+      "score": 0.5465209,
+      "raw_content": null
+    },
+    {
+      "url": "https://aihealth.duke.edu/",
+      "title": "Duke AI Health \u2013 Promoting world-class AI health research",
+      "content": "Designed as a multidisciplinary, campus-spanning initiative, AI Health harnesses expertise and insights across multiple schools, centers, and institutes at Duke to bring to bear the power of machine learning and related quantitative fields on medicine, healthcare delivery, and the health of individuals and communities.\n\n### latest\n\n# Duke Authors Examine Limitations of Binary Classification for Diagnosis Prediction [...] Duke AI Health connects, strengthens, amplifies, and grows multiple streams of theoretical and applied research on artificial intelligence and machine learning in order to answer the most urgent and difficult challenges in medicine and population health. [...] Duke Office of Information Technology Media Architect and Senior Producer Stephen Toback explores the capabilities and limitations of AI chatbots like ChatGPT in healthcare and academia. The session demonstrates real-world\u2026\n\nRead more\n\n# Dr. Michael Cary Speaks at Congressional Briefing on Impact of Nursing Science on Patient Care",
+      "score": 0.5176446,
+      "raw_content": null
+    },
+    {
+      "url": "https://ai.nejm.org/doi/full/10.1056/AIra2500061",
+      "title": "Development and Commercialization Pathways of AI Medical ...",
+      "content": "Dr. Dai received funding from a Discovery Award from Johns Hopkins University for the project entitled \u201cPurposeful Design for AI-Augmented Healthcare: Harnessing Physician-in-the-Loop Systems to Improve the Patient Journey.\u201d\n\nThe funding organization took no part in the design and conduct of the study; collection, management, analysis, and interpretation of the data; preparation, review, and approval of the manuscript; and decision to submit the manuscript for publication. [...] Go to figure location within the article\n\nDownload figure\n\nShare\n\nxrefBack.goTo\n\nRequest permissions\nAuthors Info & Affiliations\n\nNow Reading:\n\nDevelopment and Commercialization Pathways of AI Medical Devices in the United States: Implications for Safety and Regulatory Oversight\n\nShare\n\n###### PREVIOUS ARTICLE\n\nPadChest-GR: A Bilingual Chest X-Ray Dataset for Grounded Radiology Report Generation\n\nPrevious###### NEXT ARTICLE\n\nMore Fragmented, More Complex: State Regulation of AI in Health Care [...] 1.  Branden Lee,\n    Patrick Kramer,\n    Sara Sandri,\n    Ritika Chanda,\n    Crystal Favorito,\n    Olivia Nasef,\n    Joseph S. Ross,\n    Joshua Sharfstein,\n    Tinglong Dai,Early Recalls and Clinical Validation Gaps in Artificial Intelligence\u2013Enabled Medical Devices, JAMA Health Forum, 6, 8, (e253172), (2025).",
+      "score": 0.41307515,
+      "raw_content": null
+    },
+    {
+      "url": "https://ai.nejm.org/toc/ai/current",
+      "title": "Current Issue - NEJM AI - The New England Journal of Medicine",
+      "content": "Redefining Bias Audits for Generative AI in Health Care \u00b7 Energy Considerations for Scaling Artificial Intelligence Adoption in Medicine: First Do No Harm \u00b7 AI-",
+      "score": 0.37724295,
+      "raw_content": null
+    },
+    {
+      "url": "https://hai.stanford.edu/ai-index/2025-ai-index-report",
+      "title": "The 2025 AI Index Report | Stanford HAI",
+      "content": "Artificial intelligence is now deeply integrated into nearly every aspect of our lives. It is reshaping sectors like education, finance, and healthcare, where algorithm-driven insights guide critical decisions.\n\n#### Chapter 4: Economy\n\nGlobal private AI investment hits record high...\n\n#### Chapter 5: Science and Medicine\n\nThis chapter explores key trends in AI-driven science and medicine, reflecting the technology\u2019s growing impact in these fields.\n\n#### Chapter 6: Policy and Governance [...] Driven by increasingly capable small models, the inference cost for a system performing at the level of GPT-3.5 dropped over 280-fold between November 2022 and October 2024. At the hardware level, costs have declined by 30% annually, while energy efficiency has improved by 40% each year. Open-weight models are also closing the gap with closed models, reducing the performance difference from 8% to just 1.7% on some benchmarks in a single year. Together, these trends are rapidly lowering the [...] Artificial Intelligence has leapt to the forefront of global discourse, garnering increased attention from practitioners, industry leaders, policymakers, and the general public. The diversity of opinions and debates gathered from news articles this year illustrates just how broadly AI is being investigated, studied, and applied. However, the field of AI is still evolving rapidly and even experts have a hard time understanding and tracking progress across the field.\n\n[](",
+      "score": 0.30750406,
+      "raw_content": null
+    },
+    {
+      "url": "https://hai.stanford.edu/ai-index/2025-ai-index-report/science-and-medicine",
+      "title": "Science and Medicine | The 2025 AI Index Report | Stanford HAI",
+      "content": "In 2024, AI-driven research received top honors, with two Nobel Prizes awarded for AI-related breakthroughs. Google DeepMind\u2019s Demis Hassabis and John Jumper won the Nobel Prize in Chemistry for their pioneering work on protein folding with AlphaFold. Meanwhile, John Hopfield and Geoffrey Hinton received the Nobel Prize in Physics for their foundational contributions to neural networks.\n\n[](\n\n   [](\n   [](\n   [](\n   [](\n   [](\n   [](\n\n###### Navigate\n\n   About\n   Events\n   Careers\n   Search [...] Science and Medicine | The 2025 AI Index Report | Stanford HAI [...] ###### Participate\n\n   Get Involved\n   Support HAI\n   Contact Us\n\n### Stay Up To Date\n\nGet the latest news, advances in research, policy work, and education program updates from HAI in your inbox weekly.\n\nSign Up For Latest News\n\nStanford University\n\n   Stanford Home\n   Maps & Directions\n   Search Stanford\n   Emergency Info\n\n   Terms of Use\n   Privacy\n   Copyright\n   Trademarks\n   Non-Discrimination\n   Accessibility\n\n\u00a9 Stanford University. Stanford, California 94305.\n\nPause Media",
+      "score": 0.09912977,
+      "raw_content": null
+    }
+  ],
+  "response_time": 2.88,
+  "request_id": "bc21dad1-58b2-4116-90e1-7a5800c104db"
+}
