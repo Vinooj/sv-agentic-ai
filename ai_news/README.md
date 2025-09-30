@@ -1,3 +1,17 @@
+# CrewAI Installation and Project Initialization
+Please https://docs.crewai.com/en/installation
+Basically 
+```zsh
+uv tool install crewai
+uv tool list # to test
+
+# Expected out put 
+crewai v0.102.0
+- crewai
+
+crewai create crew ai_news # Assumes you have activate the uv virtual environmnet.
+```
+
 # AiNews Crew
 
 Welcome to the AiNews Crew project, powered by [crewAI](https://crewai.com). This template is designed to help you set up a multi-agent AI system with ease, leveraging the powerful and flexible framework provided by crewAI. Our goal is to enable your agents to collaborate effectively on complex tasks, maximizing their collective intelligence and capabilities.
