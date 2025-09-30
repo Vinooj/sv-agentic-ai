@@ -1,0 +1,10 @@
+{
+  "main_topic": "Artificial Intelligence in Healthcare",
+  "sub_topics": [
+    { "name": "Medical Imaging and Diagnostics", "description": "Using AI to analyze radiology images, MRIs, and CT scans for faster and more accurate diagnosis." },
+    { "name": "Drug Discovery and Development", "description": "Applying AI models to identify new compounds, predict drug effectiveness, and shorten development cycles." },
+    { "name": "Personalized Medicine", "description": "Leveraging machine learning to tailor treatments to an individual’s genetic profile and health data." },
+    { "name": "Administrative Automation", "description": "Reducing healthcare costs by automating billing, scheduling, and electronic health record management." },
+    { "name": "Remote Patient Monitoring", "description": "Using AI-driven wearables and IoT devices to continuously track patient vitals and predict health risks." }
+  ]
+}

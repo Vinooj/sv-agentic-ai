@@ -1,0 +1,7 @@
+news_research_task:
+  description: >
+    Conduct a thorough research about main_topic and sub_topics specified in config/topics.json using the pydantic model Topics. Make sure you find any interesting and relevant news about topics using the tavily tool. The time period should be at least within the last 3 months. Use the Tavily web search tool to find the relevant news for each topic. Return a maximoun of upto 10 news artcile per topic. Summarize your findings in a concise manner, focusing on the most relevant and impactful developments. Ensure that your summary is well-structured and easy to understand.
+  expected_output: >
+    An aggregate of all news articles collected, organized by main_topic and sub_topics, with summaries for each article.
+  agent: news_researcher
+
