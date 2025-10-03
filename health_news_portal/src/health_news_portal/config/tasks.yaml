@@ -1,0 +1,31 @@
+# This YAML file is a conceptual representation for ONE sub-topic.
+# The `run_crew.py` script dynamically creates these for all five sub-topics.
+
+manage_content_workflow_task:
+  description: >
+    Oversee the entire content creation workflow for the main topic of 'Cancer Health Care'.
+    You must manage the following 5 subtopics from research to editorial creation.
+    For EACH subtopic, you must first delegate to the news_picker_agent to find 5 relevant articles,
+    and then delegate to the editor_agent to write the sub-topic editorial using those articles.
+    Compile all the resulting editorials.
+
+    **Subtopics to process:**
+    1.  **Cancer Research & Prevention:** How is AI transforming cancer research and prevention through data analysis and risk prediction?
+    2.  **Early Detection and Diagnosis:** How does AI enhance early cancer detection and diagnosis using imaging, pathology, and screening tools?
+    3.  **Cancer Drug Discovery and Development:** What role does AI play in accelerating cancer drug discovery, from target identification to clinical trials?
+    4.  **Cancer Treatment Methods:** How can AI assist in personalizing cancer treatment, specifically in deciding on and planning chemotherapy regimens?
+    5.  **Precision Oncology:** How does AI enable precision oncology by personalizing treatments through the integration of genomics, medical records, and patient data?
+  expected_output: >
+    A final compiled report containing the 5 sub-topic editorials, ready for the Editor-in-Chief's review.
+
+chief_editorial_task:
+  description: >
+    (Note: This is part of a larger process) Review the sub-topic editorial on 'Cancer Research & Prevention'. Provide refinement feedback. Select the best article. Write the main editorial.
+  expected_output: 'A complete content package including the main editorial, refined sub-topic editorials, and the selected homepage article URL.'
+  agent: 'chief_editorial_agent'
+    
+qa_task:
+  description: >
+    Perform a final QA check. Verify all content for all 5 sub-topics is complete. Structure the entire final output into the specified JSON format according to the 'FinalReport' Pydantic model.
+  expected_output: "A single, validated JSON object that strictly adheres to the 'FinalReport' Pydantic model."
+  agent: 'qa_agent'
